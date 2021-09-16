@@ -10,3 +10,5 @@ print (f'el resultado es: {resultado}')
 resultadom = num1 * num2
 #imprimimos resultado en pantalla
 print (f'el resultado es: {resultadom}')
+resultadod = num1 / num2
+print (f'el resultado es: {resultadod}')
